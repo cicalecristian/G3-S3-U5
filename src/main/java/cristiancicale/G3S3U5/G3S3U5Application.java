@@ -23,7 +23,28 @@ public class G3S3U5Application {
 //
 //        userData.stampa();
 
+        // Composite
 
+//        Pagina p1 = new Pagina(1);
+//        Pagina p2 = new Pagina(2);
+//        Pagina p3 = new Pagina(3);
+//
+//        Sezione sottoSezione = new Sezione("Sottosezione 1");
+//        sottoSezione.aggiungiElemento(p2);
+//        sottoSezione.aggiungiElemento(p3);
+//
+//        Sezione sezione = new Sezione("Sezione 1");
+//        sezione.aggiungiElemento(p1);
+//        sezione.aggiungiElemento(sottoSezione);
+//
+//        Libro libro = new Libro("Design Patterns", 29.99);
+//        libro.aggiungiAutore("Gamma");
+//        libro.aggiungiAutore("GoF");
+//
+//        libro.aggiungiElemento(sezione);
+//
+//        libro.stampa();
+//
+//        System.out.println("Totale pagine: " + libro.getNumeroTotalePagine());
     }
-
 }
