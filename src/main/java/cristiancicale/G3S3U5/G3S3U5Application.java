@@ -46,5 +46,23 @@ public class G3S3U5Application {
 //        libro.stampa();
 //
 //        System.out.println("Totale pagine: " + libro.getNumeroTotalePagine());
+
+        // Chain
+
+//        Ufficiale tenente = new Tenente();
+//        Ufficiale capitano = new Capitano();
+//        Ufficiale maggiore = new Maggiore();
+//        Ufficiale colonnello = new Colonnello();
+//        Ufficiale generale = new Generale();
+//
+//        tenente.setSuperiore(capitano);
+//        capitano.setSuperiore(maggiore);
+//        maggiore.setSuperiore(colonnello);
+//        colonnello.setSuperiore(generale);
+//
+//        int richiesta = 3000;
+//        System.out.println("Richiesta: " + richiesta);
+//
+//        tenente.gestisciRichiesta(richiesta);
     }
 }
